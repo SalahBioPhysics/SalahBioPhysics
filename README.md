@@ -1,7 +1,7 @@
 ![aboutme](readme.jpg)
 ### Hi there 👋
-#### 🌱 I’m currently learning art!
-#### 👯 I’m looking to collaborate on protein free energy calculations
+#### 🌱 Fun fact: I’m temporary immortal 
+#### ⚡ I’m looking to collaborate on protein free energy calculations
 
 
 
