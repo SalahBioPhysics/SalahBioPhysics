@@ -1,4 +1,4 @@
-![aboutme](aboutmereadme.jpg)
+![aboutme](readme.jpg)
 ### Hi there 👋
 #### 🌱 Fun fact: I’m temporary immortal 
 #### ⚡ I’m looking to collaborate on protein free energy calculations
