@@ -1,9 +1,8 @@
 ![aboutme](readme.jpg)
 ### Hi there 👋
 #### 🌱 Fun fact: I’m temporary immortal 
-#### ⚡ I’m looking to collaborate on protein free energy calculations
-
-
+#### ⚡ Looking to collaborate on protein free energy calculations
+#### 😄 In love with the Rocky mountains
 
 <!--
 **SalahBioPhysics/SalahBioPhysics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
