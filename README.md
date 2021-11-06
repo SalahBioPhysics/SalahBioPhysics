@@ -3,7 +3,7 @@
 #### 🌱 Fun fact: I’m temporary immortal 
 #### ⚡ Looking to collaborate on protein free energy calculations
 #### ⛰  Rocky mountains enthusiast
-#### 💬 I'm flaunt in Arabic
+#### 💬 I'm fluent in Arabic
 
 <!--
 **SalahBioPhysics/SalahBioPhysics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
