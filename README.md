@@ -1,7 +1,8 @@
 ![aboutme](readme.jpg)
 ### Hi there 👋
 #### 🌱 Fun fact: I’m temporary immortal 
-#### ⚡ Looking to collaborate on protein free energy calculations
+#### ⚡ I’m Looking to collaborate on structural biology
+#### 👯 I’m Looking to collaborate on artificial intelligence art
 #### ⛰  Rocky mountains enthusiast
 #### 💬 I'm fluent in Arabic
 
